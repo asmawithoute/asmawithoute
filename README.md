@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Asma</h1>
 <h3 align="center">A passionate software engineer</h3>
-
+<img src=" https://pin.it/2SQKFW0" width="1000"/>
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **asma.ko.dev@gmail.com**
