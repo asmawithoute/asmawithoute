@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Asma</h1>
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🌱 I’m currently learning **AI/ML**
 
